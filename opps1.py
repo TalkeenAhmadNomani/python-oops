@@ -24,3 +24,7 @@ print(talkeen.id)
 #calling the method
 
 talkeen.travel("patna")
+
+#what is the need of data should initate as sson as object is called? why we are not making fucntion and calling when we required?
+# so the answer is that in real world when application loaded , some data should be appear without doing anything
+# like when we open the face , user doen't connect with inter to fb or to database, as soon as app opne class is called and these thing connect automatically.
