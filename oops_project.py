@@ -60,6 +60,7 @@ class chatbook:
             friend = input("whom to send this msg")
         else:
             print("you are not logged in")
+            print("cdc")
             print("\n")
             self.menu()
 
