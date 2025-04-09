@@ -58,6 +58,8 @@ class chatbook:
         if self.loggedin == True:
             msg = input("enter your msg here")
             friend = input("whom to send this msg")
+            friend2 = input("whom to send this msg")
+            friend3 = input("whom to send this msg")
         else:
             print("you are not logged in")
             print("cdc")
